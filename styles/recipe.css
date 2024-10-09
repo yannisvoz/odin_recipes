@@ -1,0 +1,28 @@
+body {
+    width: 70%;
+    padding-left: 3rem;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.1rem;
+}
+
+img {
+    height: auto;
+    width: 700px;
+    padding-bottom: 5rem;
+    display: inline-block;
+}
+
+p, li {
+    font-size: 1.6rem;
+}
+
+li {
+    padding-bottom: 2rem;
+}
+
+a:link {
+    display: inline-block;
+}
